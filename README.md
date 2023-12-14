@@ -57,4 +57,4 @@ Admin users have broader access, enabling them to manage user accounts and perfo
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.md).
+This project is licensed under the [MIT License](LICENSE.md). LOVE YOU
